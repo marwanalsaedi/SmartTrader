@@ -1,0 +1,12 @@
+flask
+requests
+google-cloud-pubsub
+google-cloud-storage
+google-cloud-aiplatform
+sqlalchemy
+PyMySQL
+finnhub-python
+pandas
+numpy
+mysql-connector-python
+google-api-python-client
